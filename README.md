@@ -8,5 +8,5 @@
 
 [View portfolio](https://unbee-lee.vercel.app/)
 
-## Host
-This portfolio is hosted by Vercel (https://vercel.com/)
+## Deployment
+This portfolio is deployed via Vercel (https://vercel.com/)
