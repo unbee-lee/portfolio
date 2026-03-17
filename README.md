@@ -7,3 +7,6 @@
 ![screenshot](screenshot.png)
 
 [View portfolio](https://unbee-lee.vercel.app/)
+
+## Host
+This portfolio is hosted by Vercel (https://vercel.com/)
