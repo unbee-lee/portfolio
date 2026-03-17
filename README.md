@@ -1,6 +1,6 @@
 # React Portfolio, multiple pages with dark mode by 
 
-[Twitter](https://twitter.com/paytoncodes) | paytontaylor96@gmail.com
+[Github repo](https://github.com/paytonjewell/ReactPortfolioTemplate))
 
 ## a portfolio for developers
 
