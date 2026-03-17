@@ -1,6 +1,6 @@
-# React Portfolio, multiple pages with dark mode by 
+# React Portfolio, multiple pages with dark mode by paytontaylor96@gmail.com
 
-[Github repo](https://github.com/paytonjewell/ReactPortfolioTemplate))
+[Github repo](https://github.com/paytonjewell/ReactPortfolioTemplate)
 
 ## a portfolio for developers
 
