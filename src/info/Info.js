@@ -98,9 +98,9 @@ export const info = {
             image: mock1
         },
         {
-            title: "ParkMate",
-            live: "https://drive.google.com/file/d/13BSGTvybm8EppH5Yo1T83p7cskeGA-8R/view?usp=drive_link",
-            source: "https://github.com/unbee-lee/ParkMate",
+            title: "Coming soon",
+            live: "https://github.com/unbee-lee/Building-a-classification-model",
+            source: "https://github.com/unbee-lee/Building-a-classification-model",
             image: mock2
         }
         // {
