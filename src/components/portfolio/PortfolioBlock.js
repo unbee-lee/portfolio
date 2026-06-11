@@ -6,7 +6,17 @@ function PortfolioBlock(props) {
    const {image, live, source, title} = props;
    return (
       <Box display={'flex'} flexDirection={'column'} justifyContent={'center'} alignItems={'center'}>
-         <Box component={'img'} src={image} alt={'mockup'}/>
+         <Box
+            component={'img'}
+            src={image}
+            alt={`${title} project thumbnail`}
+            sx={{
+               width: {xs: '85vw', sm: '420px'},
+               height: {xs: '220px', sm: '280px'},
+               objectFit: 'cover',
+               borderRadius: '8px'
+            }}
+         />
          <h1 style={{fontSize: '2rem'}}>{title}</h1>
          <Box className={'portfolio'} display={'flex'} flexDirection={'column'} gap={'0.5rem'}
               alignItems={'center'} fontSize={'1.5rem'} py={'2rem'}>
