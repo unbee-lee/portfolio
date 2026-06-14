@@ -102,13 +102,13 @@ export const info = {
             live: "https://drive.google.com/file/d/13BSGTvybm8EppH5Yo1T83p7cskeGA-8R/view?usp=drive_link",
             source: "https://github.com/unbee-lee/ParkMate",
             image: mock2
+        },
+        {
+            title: "Online banking web",
+            live: "https://github.com/unbee-lee/online_banking_web",
+            source: "https://github.com/unbee-lee/online_banking_web",
+            image: mock3
         }
-        // {
-        //     title: "Project 3",
-        //     live: "https://paytonpierce.dev",
-        //     source: "https://github.com/paytonjewell",
-        //     image: mock3
-        // },
         // {
         //     title: "Project 4",
         //     live: "https://paytonpierce.dev",
