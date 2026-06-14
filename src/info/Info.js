@@ -108,13 +108,13 @@ export const info = {
             live: "https://github.com/unbee-lee/online_banking_web",
             source: "https://github.com/unbee-lee/online_banking_web",
             image: mock3
+        },
+        {
+            title: "Conference engagement platform",
+            live: "https://github.com/unbee-lee/conference-platform-web",
+            source: "https://github.com/unbee-lee/conference-platform-web",
+            image: mock4
         }
-        // {
-        //     title: "Project 4",
-        //     live: "https://paytonpierce.dev",
-        //     source: "https://github.com/paytonjewell",
-        //     image: mock4
-        // },
         // {
         //     title: "Project 5",
         //     live: "https://paytonpierce.dev",
