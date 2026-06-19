@@ -111,7 +111,7 @@ export const info = {
         },
         {
             title: "Conference engagement platform",
-            live: "https://github.com/unbee-lee/conference-platform-web",
+            live: "https://drive.google.com/file/d/1SxeQ54BmHE9bw1VqlHUWSt7cA04Ot8ru/view?usp=drive_link",
             source: "https://github.com/unbee-lee/conference-platform-web",
             image: mock4
         }
