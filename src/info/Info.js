@@ -105,7 +105,7 @@ export const info = {
         },
         {
             title: "Online banking web",
-            live: "https://github.com/unbee-lee/online_banking_web",
+            live: "https://drive.google.com/file/d/1_xJMOVdboSUqZg4MqGYiITRHYqH4R45q/view?usp=drive_link",
             source: "https://github.com/unbee-lee/online_banking_web",
             image: mock3
         },
