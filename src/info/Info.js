@@ -69,7 +69,7 @@ export const info = {
     ],
     bio: "Hello! I'm Eunbee. I'm a Master of Computing student at Curtin Uni. I'm from Korea and enjoy iced latte even in winter, and believe developers never die — they just refactor. Maybe you should hire me!",
     funFacts: [
-        "I work casually FIFO as a Trade Assistant, which has made me practical, adaptable, and pretty handy when solving real-world problems."
+        "A bit of a fun fact: I also work casually FIFO as a Trade Assistant, so I’m pretty handy both on-site and behind a keyboard."
     ],
     skills:
         {

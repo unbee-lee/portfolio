@@ -67,9 +67,9 @@ export default function About({innerRef}) {
     return (
         <Box ref={innerRef} display={'flex'} flexDirection={'column'} alignItems={'center'} mt={'3rem'} id={'about'}>
             <Terminal text={aboutMeText()}/>
-            <Terminal text={funFactsText()}/>
             <Terminal text={skillsText()}/>
             <Terminal text={miscText()}/>
+            <Terminal text={funFactsText()}/>
         </Box>
     )
 }
