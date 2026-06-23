@@ -36,6 +36,20 @@ export default function About({innerRef}) {
         </>;
     }
 
+    function funFactsText() {
+        return <>
+            <p><span style={{color: info.baseColor}}>{firstName}{info.lastName.toLowerCase()} $</span> cd fun-facts
+            </p>
+            <p><span style={{color: info.baseColor}}>fun-facts <span
+                className={Style.green}>(main)</span> $</span> ls</p>
+            <ul>
+                {info.funFacts.map((fact, index) => (
+                    <li key={index}>{fact}</li>
+                ))}
+            </ul>
+        </>;
+    }
+
     function miscText() {
         return <>
             <p><span style={{color: info.baseColor}}>{firstName}{info.lastName.toLowerCase()} $</span> cd
@@ -53,6 +67,7 @@ export default function About({innerRef}) {
     return (
         <Box ref={innerRef} display={'flex'} flexDirection={'column'} alignItems={'center'} mt={'3rem'} id={'about'}>
             <Terminal text={aboutMeText()}/>
+            <Terminal text={funFactsText()}/>
             <Terminal text={skillsText()}/>
             <Terminal text={miscText()}/>
         </Box>
