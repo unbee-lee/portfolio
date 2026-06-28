@@ -78,11 +78,11 @@ export const info = {
         },
         {
             category: 'Frameworks & Libraries',
-            items: ['Spring Boot', 'Django', 'React.js', 'React Native', 'Expo', 'Expo Router', 'Express.js', 'Node.js', 'Pandas', 'NumPy', 'Scikit-learn', 'Matplotlib', 'Socket.IO', 'Passport.js', 'Mongoose', 'Bootstrap', 'Zod', 'MQTT.js', 'react-native-maps']
+            items: ['Spring Boot', 'Django', 'React.js', 'React Native', 'Expo', 'Express.js', 'Node.js', 'Pandas', 'NumPy', 'Scikit-learn', 'Matplotlib', 'Socket.IO', 'Passport.js', 'Mongoose', 'Bootstrap', 'Zod', 'MQTT']
         },
         {
             category: 'Cloud & Infrastructure',
-            items: ['AWS (S3, EC2, RDS)', 'Docker', 'Docker Compose', 'Vercel', 'Mosquitto', 'Raspberry Pi 5', 'MQTT']
+            items: ['AWS(S3, EC2, RDS)', 'Docker', 'Vercel', 'Mosquitto', 'Raspberry Pi 5', 'MQTT']
         },
         {
             category: 'Tools & Platforms',
