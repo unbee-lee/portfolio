@@ -78,7 +78,7 @@ export const info = {
         },
         {
             category: 'Frameworks & Libraries',
-            items: ['Spring Boot', 'Django', 'React.js', 'React Native', 'Expo', 'Express.js', 'Node.js', 'Pandas', 'NumPy', 'Scikit-learn', 'Matplotlib', 'Socket.IO', 'Passport.js', 'Mongoose', 'Bootstrap', 'Zod', 'MQTT']
+            items: ['Spring Boot', 'Django', 'React.js', 'React Native', 'Expo', 'Express.js', 'Node.js', 'Pandas', 'NumPy', 'Scikit-learn', 'Matplotlib', 'Socket.IO', 'Passport.js', 'Mongoose', 'Bootstrap', 'Zod']
         },
         {
             category: 'Cloud & Infrastructure',
@@ -90,7 +90,7 @@ export const info = {
         },
         {
             category: 'Data Science',
-            items: ['Data preprocessing and cleaning', 'Data analysis', 'Data visualisation', 'YOLOv8n']
+            items: ['Data preprocessing', 'Data analysis', 'Data visualisation', 'YOLOv8n']
         }
     ],
     hobbies: [
