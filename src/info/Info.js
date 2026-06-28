@@ -71,12 +71,28 @@ export const info = {
     funFacts: [
         "A bit of a fun fact: I also work casually FIFO as a Trade Assistant, so I’m pretty handy both on-site and behind a keyboard."
     ],
-    skills:
+    skills: [
         {
-            proficientWith: ['python', 'sql', 'git', 'github', 'html5', 'css3'],
-            exposedTo: ['nodejs', 'java', 'javascript', 'Django', 'Springboot', 'Pandas', 'Scikit-learn', 'Jupyter notebook']
+            category: 'Languages',
+            items: ['Python', 'Java', 'JavaScript', 'TypeScript', 'HTML', 'CSS', 'SQL', 'VB']
+        },
+        {
+            category: 'Frameworks & Libraries',
+            items: ['Spring Boot', 'Django', 'React.js', 'React Native', 'Expo', 'Expo Router', 'Express.js', 'Node.js', 'Pandas', 'NumPy', 'Scikit-learn', 'Matplotlib', 'Socket.IO', 'Passport.js', 'Mongoose', 'Bootstrap', 'Zod', 'MQTT.js', 'react-native-maps']
+        },
+        {
+            category: 'Cloud & Infrastructure',
+            items: ['AWS (S3, EC2, RDS)', 'Docker', 'Docker Compose', 'Vercel', 'Mosquitto', 'Raspberry Pi 5', 'MQTT']
+        },
+        {
+            category: 'Tools & Platforms',
+            items: ['Git', 'Jupyter Notebook', 'Oracle DB', 'MySQL', 'PostgreSQL', 'MongoDB', 'Vite', 'Axios']
+        },
+        {
+            category: 'Data Science',
+            items: ['Data preprocessing and cleaning', 'Data analysis', 'Data visualisation', 'YOLOv8n']
         }
-    ,
+    ],
     hobbies: [
         {
             label: 'reading',

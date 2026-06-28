@@ -25,14 +25,14 @@ export default function About({innerRef}) {
             </p>
             <p><span style={{color: info.baseColor}}>skills/tools <span
                 className={Style.green}>(main)</span> $</span> ls</p>
-            <p style={{color: info.baseColor}}> Proficient With</p>
-            <ul className={Style.skills}>
-                {info.skills.proficientWith.map((proficiency, index) => <li key={index}>{proficiency}</li>)}
-            </ul>
-            <p style={{color: info.baseColor}}> Exposed To</p>
-            <ul className={Style.skills}>
-                {info.skills.exposedTo.map((skill, index) => <li key={index}>{skill}</li>)}
-            </ul>
+            {info.skills.map((skillGroup, index) => (
+                <React.Fragment key={index}>
+                    <p style={{color: info.baseColor}}> {skillGroup.category}</p>
+                    <ul className={Style.skills}>
+                        {skillGroup.items.map((skill, skillIndex) => <li key={skillIndex}>{skill}</li>)}
+                    </ul>
+                </React.Fragment>
+            ))}
         </>;
     }
 
