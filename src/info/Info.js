@@ -67,7 +67,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Eunbee. I'm a Master of Computing student at Curtin Uni. I'm from Korea and enjoy iced latte even in winter, and believe developers never die — they just refactor. Maybe you should hire me!",
+    bio: "Hello! I'm Eunbee, a Master of Computing student at Curtin University. I'm from Korea, enjoy iced lattes even in winter, and like to believe developers never die, hopefully. Maybe you should hire me!",
     funFacts: [
         "A bit of a fun fact: I also work casually FIFO as a Trade Assistant, so I’m pretty handy both on-site and behind a keyboard."
     ],
